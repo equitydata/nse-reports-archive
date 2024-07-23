@@ -1,0 +1,5 @@
+Latency in microseconds observed for '19-JUL-2024'
+Segment,Min,Mean,50%ile,90%ile,99%ile,Max,No. of Order Messages (Million msgs)
+CM,43.695,146.374,67.015,150.040,466.494,916124,954.79Mmsgs
+
+"Note :- Latency is measured as the complete round trip for an order message (includes new, modification and cancel) within exchange trading infrastructure wall to wall (includes network and application firewalls to the matching engine and back)"
